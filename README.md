@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">-I'm interested in Machine Learning<br>-Currently learning Python<br>-I'm also currently working on Library Management System</h6>
+<h6 align="left">-I'm interested in Machine Learning and Agentic Systems<br>-Currently working with Python<br>-Actively contributing in open source</h6>
 
 ###
 
