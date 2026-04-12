@@ -59,8 +59,7 @@
 
 
 ###
-<br>
-<br>
+
 <br clear="both">
 
 <picture>
