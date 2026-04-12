@@ -9,6 +9,7 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/SY_ipFXwR6cAAAAd/gogeta.gif"  />
 
 ###
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -50,7 +51,8 @@
 </div>
 
 ###
-
+<br>
+<br>
 <br clear="both">
 
 <picture>
